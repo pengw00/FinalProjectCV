@@ -1,1 +1,1 @@
-# SmileDetectionProject
+# CV_Project
