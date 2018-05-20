@@ -1,0 +1,8 @@
+TruePositives:27	TrueNegatives:0	FalsePositives:0	FalseNegatives:3
+Accuracy:90.0
+Precision:100.0
+Recall:90.0
+TruePositives:0	TrueNegatives:28	FalsePositives:2	FalseNegatives:0
+Accuracy:93.33333333333333
+Precision:100.0
+Recall:93.33333333333333
